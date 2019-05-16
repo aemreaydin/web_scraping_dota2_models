@@ -1,0 +1,17 @@
+{
+  "name": "dota_scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon scrape"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.10",
+    "unzip": "^0.1.11"
+  }
+}
